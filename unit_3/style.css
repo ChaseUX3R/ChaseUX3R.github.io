@@ -3,7 +3,12 @@ body {
     background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Orion_Nebula_WFI.jpg/624px-Orion_Nebula_WFI.jpg");
 	background-size: cover;
 	background-color: black;
+	color: white;
 	font-family: Helvetica;
 }
-h1 {color: white;
+hr {
+	width: 200px;
 }
+p { 
+	font-size: 22px;
+ }
