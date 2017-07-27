@@ -1,10 +1,14 @@
 style.css
+<style>
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+</style>
+
 body {
     text-align: center;
     background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Orion_Nebula_WFI.jpg/624px-Orion_Nebula_WFI.jpg");
 	background-size: cover;
 	background-color: black;
-	color: white;
+	color: #6BF3FF;
 	font-family: Helvetica;
 }
 hr {
